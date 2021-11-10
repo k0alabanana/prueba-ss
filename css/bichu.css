@@ -14,7 +14,7 @@ header{
 
 header h1{
 	color: white;
-	font-size: 50px;
+	font-size: 70px;
 }
 
 header img{
@@ -28,7 +28,7 @@ h1, h2{
 }
 
 h2{
-	font-size: 25px;
+	font-size: 35px;
 	color: palevioletred;
 	margin: /*arriba*/40px /*izq y der*/0 /*abajo*/10px;
 }
